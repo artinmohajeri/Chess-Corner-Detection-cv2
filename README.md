@@ -1,4 +1,4 @@
-# Chess Cornere Detection
+# Chess Corner Detection
 
 ### This is my first project using opencv library(cv2) and numpy
 ### This simple project, detects all corners of a chess board and draw lines between all of them.
